@@ -10,7 +10,7 @@ public class TestHelloWorld : MonoBehaviour
         //Debug.Log("HelloWorld");
         Debug.Log("안녕하세요, 승길동입니다.");
         Debug.Log("학원에서 추가수정 했슴둥5");
-        //왕앜
+        //왕앜ㅁㄴㄹ
     }
 
     // Update is called once per frame
